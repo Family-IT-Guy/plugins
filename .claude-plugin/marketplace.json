@@ -1,0 +1,22 @@
+{
+  "name": "fitg",
+  "description": "Family IT Guy plugin marketplace. Private plugins for the FITG team.",
+  "owner": {
+    "name": "Family IT Guy",
+    "url": "https://github.com/Family-IT-Guy"
+  },
+  "plugins": [
+    {
+      "name": "fitg-analytics",
+      "description": "Product analytics across Stripe, Fathom, CloudWatch, PostHog, and Meta. Period comparison, funnel analysis, data quality annotations.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Family-IT-Guy/fitg-analytics.git"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    }
+  ]
+}
