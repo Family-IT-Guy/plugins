@@ -1,18 +1,30 @@
 {
-  "name": "fitg",
-  "description": "Family IT Guy plugin marketplace. Private plugins for the FITG team.",
+  "name": "familyitguy",
+  "description": "Claude Code plugins by Family IT Guy.",
   "owner": {
     "name": "Family IT Guy",
     "url": "https://github.com/Family-IT-Guy"
   },
   "plugins": [
     {
+      "name": "research-engine",
+      "description": "Cited web research via Perplexity Sonar API with background sub-agents, primary source verification, cascade follow-ups, and persistent thread files.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/research-engine"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    },
+    {
       "name": "fitg-analytics",
       "description": "Product analytics across Stripe, Fathom, CloudWatch, PostHog, and Meta. Period comparison, funnel analysis, data quality annotations.",
       "version": "0.1.0",
       "source": {
-        "source": "url",
-        "url": "https://github.com/Family-IT-Guy/fitg-analytics.git"
+        "source": "github",
+        "repo": "Family-IT-Guy/fitg-analytics"
       },
       "author": {
         "name": "Ben Gillenwater"
