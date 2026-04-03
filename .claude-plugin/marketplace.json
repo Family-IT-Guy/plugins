@@ -9,7 +9,7 @@
     {
       "name": "research-engine",
       "description": "Cited web research via Perplexity Sonar API with background sub-agents, primary source verification, cascade follow-ups, and persistent thread files.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "source": {
         "source": "github",
         "repo": "Family-IT-Guy/research-engine"
