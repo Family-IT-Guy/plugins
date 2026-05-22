@@ -1,0 +1,46 @@
+{
+  "name": "familyitguy",
+  "description": "Claude Code plugins by Family IT Guy.",
+  "owner": {
+    "name": "Family IT Guy",
+    "url": "https://github.com/Family-IT-Guy"
+  },
+  "plugins": [
+    {
+      "name": "research-engine",
+      "description": "Cited web research via Perplexity Sonar API with background sub-agents, primary source verification, cascade follow-ups, and persistent thread files.",
+      "version": "1.1.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/research-engine"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    },
+    {
+      "name": "youtube-ingest",
+      "description": "Ingest YouTube video transcripts, metadata, and search results via yt-dlp. No API key needed.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/youtube-ingest"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    },
+    {
+      "name": "assess",
+      "description": "Critique how you are directing the model: hold your prompt (or the session so far) up to the question-method lenses and sharpen it, instead of executing it. Summon with /assess.",
+      "version": "1.0.3",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/assess"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    }
+  ]
+}
