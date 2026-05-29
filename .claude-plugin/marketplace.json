@@ -53,6 +53,30 @@
       "author": {
         "name": "Ben Gillenwater"
       }
+    },
+    {
+      "name": "afk",
+      "description": "Set the autonomous working contract for when you step away. Tell Claude you're leaving — \"AFK\", \"I'll be away\", \"see what you can do without me\" — and it does the most valuable work it safely can unsupervised: deep, verified progress, no production changes, nothing sent, no metered spend, and a clean decision queue waiting when you're back.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/afk"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
+    },
+    {
+      "name": "rule-creator",
+      "description": "Write the smallest instruction that actually changes how your AI behaves — a custom-instructions block, a CLAUDE.md/AGENTS.md/GEMINI.md rule, or a skill — fitted to your harness and proven with a before/after demo. Use when you want your AI to start or stop doing something and reminders won't stick.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/rule-creator"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
     }
   ]
 }
