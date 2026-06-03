@@ -77,6 +77,18 @@
       "author": {
         "name": "Ben Gillenwater"
       }
+    },
+    {
+      "name": "qa-webapp",
+      "description": "Comprehensive 7-phase QA for any web app — functional, visual, performance, accessibility, security, cross-browser, failure-mode, and edge-case testing across a local → preview → prod pipeline. Separates analysis from remediation: reports findings as evidence-backed facts and lets you set scope and priority. No credentials of its own; needs playwright-cli. Summon with /qa-webapp.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/qa-webapp"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
     }
   ]
 }
