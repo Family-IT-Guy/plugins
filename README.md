@@ -25,3 +25,4 @@ Restart Claude Code after installing. To update later:
 | `catch-me-up` | Come back to a session after time away and get re-oriented: it reads your project's state docs and git history, reconciles them against the conversation, and hands back a briefing plus the questions you haven't asked yet. Summon with `/catch-me-up`. |
 | `research-engine` | Cited web research via Perplexity Sonar API. Background sub-agents, primary-source verification, cascade follow-ups, persistent thread files. |
 | `youtube-ingest` | Ingest YouTube video transcripts, metadata, and search results via yt-dlp. No API key needed. |
+| `qa-webapp` | Comprehensive 7-phase QA for any web app — functional, visual, performance, accessibility, security, cross-browser, failure-mode, and edge-case testing across a local → preview → prod pipeline. Separates analysis from remediation and lets you set scope and priority. No credentials of its own; needs `playwright-cli`. Summon with `/qa-webapp`. |
