@@ -89,6 +89,18 @@
       "author": {
         "name": "Ben Gillenwater"
       }
+    },
+    {
+      "name": "strategic-planner",
+      "description": "Turn a goal into a plan you'll act on and be measured against. /strategic-planner grounds the plan in your principles, gets the situation and the real objective straight, has you agree the single pivotal question before it proposes any answer, gives the answer with its reasoning and evidence, ties the plan to measurement, and stress-tests it before you call it done. Generalized from SCQuARE and Minto's Pyramid Principle. Summon with /strategic-planner.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "Family-IT-Guy/strategic-planner"
+      },
+      "author": {
+        "name": "Ben Gillenwater"
+      }
     }
   ]
 }
