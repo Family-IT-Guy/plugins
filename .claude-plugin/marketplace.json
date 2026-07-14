@@ -9,7 +9,7 @@
     {
       "name": "research-engine",
       "description": "Cited web research: Claude-led deep dives over the Perplexity Search API, plus quick Sonar lookups, background sub-agents, primary-source grounding, cascade follow-ups, and persistent thread files.",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "source": {
         "source": "github",
         "repo": "Family-IT-Guy/research-engine"
@@ -44,7 +44,7 @@
     },
     {
       "name": "catch-me-up",
-      "description": "Catch yourself back up on a work thread you've stepped away from. /catch-me-up reads your project's state docs and git history, reconciles them against the conversation, and hands back a briefing — what you're doing, what's done, what's left — plus the questions you haven't asked yet but should. Read-only. Summon with /catch-me-up.",
+      "description": "Catch yourself back up on a work thread you've stepped away from. /catch-me-up reads your project's state docs and git history, reconciles them against the conversation, and hands back a briefing \u2014 what you're doing, what's done, what's left \u2014 plus the questions you haven't asked yet but should. Read-only. Summon with /catch-me-up.",
       "version": "1.0.0",
       "source": {
         "source": "github",
@@ -56,7 +56,7 @@
     },
     {
       "name": "afk",
-      "description": "Set the autonomous working contract for when you step away. Tell Claude you're leaving — \"AFK\", \"I'll be away\", \"see what you can do without me\" — and it does the most valuable work it safely can unsupervised: deep, verified progress, no production changes, nothing sent, no metered spend, and a clean decision queue waiting when you're back.",
+      "description": "Set the autonomous working contract for when you step away. Tell Claude you're leaving \u2014 \"AFK\", \"I'll be away\", \"see what you can do without me\" \u2014 and it does the most valuable work it safely can unsupervised: deep, verified progress, no production changes, nothing sent, no metered spend, and a clean decision queue waiting when you're back.",
       "version": "1.0.0",
       "source": {
         "source": "github",
@@ -68,7 +68,7 @@
     },
     {
       "name": "rule-creator",
-      "description": "Write the smallest instruction that actually changes how your AI behaves — a custom-instructions block, a CLAUDE.md/AGENTS.md/GEMINI.md rule, or a skill — fitted to your harness and proven with a before/after demo. Use when you want your AI to start or stop doing something and reminders won't stick.",
+      "description": "Write the smallest instruction that actually changes how your AI behaves \u2014 a custom-instructions block, a CLAUDE.md/AGENTS.md/GEMINI.md rule, or a skill \u2014 fitted to your harness and proven with a before/after demo. Use when you want your AI to start or stop doing something and reminders won't stick.",
       "version": "1.0.0",
       "source": {
         "source": "github",
@@ -80,7 +80,7 @@
     },
     {
       "name": "qa-webapp",
-      "description": "Comprehensive 7-phase QA for any web app — functional, visual, performance, accessibility, security, cross-browser, failure-mode, and edge-case testing across a local → preview → prod pipeline. Separates analysis from remediation: reports findings as evidence-backed facts and lets you set scope and priority. No credentials of its own; needs playwright-cli. Summon with /qa-webapp.",
+      "description": "Comprehensive 7-phase QA for any web app \u2014 functional, visual, performance, accessibility, security, cross-browser, failure-mode, and edge-case testing across a local \u2192 preview \u2192 prod pipeline. Separates analysis from remediation: reports findings as evidence-backed facts and lets you set scope and priority. No credentials of its own; needs playwright-cli. Summon with /qa-webapp.",
       "version": "1.0.0",
       "source": {
         "source": "github",
