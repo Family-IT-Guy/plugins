@@ -19,7 +19,8 @@ Restart Claude Code after installing. To update later:
 
 | Plugin | What it does |
 |--------|--------------|
-| `rule-creator` | Write the smallest instruction that actually changes how your AI behaves — a custom-instructions block, a CLAUDE.md/AGENTS.md/GEMINI.md rule, or a skill — fitted to your harness and proven with a before/after demo. |
+| `rule-creator` | Write, audit or remove an instruction that changes how your AI behaves: a custom-instructions block, a CLAUDE.md/AGENTS.md/GEMINI.md rule, or a skill. Each rule is tied to a moment the model will see, or handed to a setting or hook when there is none, and comes with a way to check it worked. |
+| `skill-author` | Build Claude Code skills that Claude picks up and follows: when the skill should fire, what goes in `SKILL.md` and what moves to companion files, and one real test run before you rely on it. Ships with `writing-great-skills`. Adapted from Matt Pocock's skills. |
 | `afk` | Set the autonomous working contract for when you step away. Claude does the most valuable work it safely can unsupervised — no production changes, nothing sent, no metered spend — and hands you a clean decision queue when you're back. |
 | `assess` | Critique how you're directing the model — sharpen your prompt against the question-method lenses instead of executing it. Summon with `/assess`. |
 | `catch-me-up` | Come back to a session after time away and get re-oriented: it reads your project's state docs and git history, reconciles them against the conversation, and hands back a briefing plus the questions you haven't asked yet. Summon with `/catch-me-up`. |
